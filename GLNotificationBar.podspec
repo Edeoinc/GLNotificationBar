@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GLNotificationBar'
-  s.version          = '2.3.5'
+  s.version          = '2.3.6'
   s.summary          = 'GLNotificationBar lets user to handle push  notification when app is active.'
 
 # This description is used to generate tags and improve search results.
@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
                        DESC
 
   
-  s.homepage         = 'https://github.com/gokulgovind/GLNotificationBar'
+  s.homepage         = 'https://github.com/Edeoinc/GLNotificationBar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gokul' => 'gokulece26@gmail.com' }
-  s.source           = { :git => 'https://github.com/gokulgovind/GLNotificationBar.git', :tag => s.version.to_s }
+  s.source           = { :git => https://github.com/Edeoinc/GLNotificationBar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/gokulgovind_'
 
   s.ios.deployment_target = '8.0'
@@ -37,7 +37,5 @@ Pod::Spec.new do |s|
      'GLNotificationBar' => ['GLNotificationBar/Classes/*.xib','GLNotificationBar/Assets/*.png']
    }
 
-  # s.public_header_files = 'Pod/Classes/**/*.h'
   s.frameworks = 'UIKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end
