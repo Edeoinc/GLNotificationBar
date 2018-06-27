@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3AC347AF30B3D1B09D9E55CFF8E6B633"
-               BuildableName = "GLNotificationBar.framework"
-               BlueprintName = "GLNotificationBar"
+               BlueprintIdentifier = "4CE8314820E3B36C0084C4EB"
+               BuildableName = "GLNotificationBar_Carthage.framework"
+               BlueprintName = "GLNotificationBar-Carthage"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3AC347AF30B3D1B09D9E55CFF8E6B633"
-            BuildableName = "GLNotificationBar.framework"
-            BlueprintName = "GLNotificationBar"
+            BlueprintIdentifier = "4CE8314820E3B36C0084C4EB"
+            BuildableName = "GLNotificationBar_Carthage.framework"
+            BlueprintName = "GLNotificationBar-Carthage"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3AC347AF30B3D1B09D9E55CFF8E6B633"
-            BuildableName = "GLNotificationBar.framework"
-            BlueprintName = "GLNotificationBar"
+            BlueprintIdentifier = "4CE8314820E3B36C0084C4EB"
+            BuildableName = "GLNotificationBar_Carthage.framework"
+            BlueprintName = "GLNotificationBar-Carthage"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
